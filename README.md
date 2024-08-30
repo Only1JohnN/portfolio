@@ -173,7 +173,7 @@ I achieve this by conducting research, defining problems, designing solutions, a
     - **[Vulnerability Scanning](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/security/test_vulnerability_scanning.py)** - Test script for identifying security vulnerabilities.
     - **[Authentication Testing](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/security/test_authentication_testing.py)** - Test script for verifying authentication mechanisms.
 
-**
+
 - **Accessibility Testing** - Automated scripts demonstrating various functionalities:
     - **[Color Contrast](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/accessibility/test_color_contrast.py)** - Test script for checking color contrast ratios.
     - **[Screen Reader](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/accessibility/test_screen_reader.py)** - Test script for ensuring screen reader compatibility.
