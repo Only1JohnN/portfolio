@@ -12,13 +12,13 @@ I am a dedicated Product Designer and Quality Assurance Engineer focused on enha
 
 I achieve this by conducting research, defining problems, designing solutions, and testing through manual, no-code, or automation methods to ensure high-quality software that is both technically sound and user-centered.
 
-Key Skills & Expertise:
+**Key Skills & Expertise:**
 
 QA Engineer: UI, black-box, white-box, integration, system, unit, and user acceptance testing. Proficient with Jira, Git, GitHub, and basic Selenium and REST API knowledge. Knowledge of SDLC, STLC, and bug life cycle.
 Product Designer: Skilled in problem-solving, prototyping, wireframing, user research, design thinking, usability testing, and visual design.
 
 
-Goals:
+**Goals:**
 
 QA: Prevent defects in development and ensure high-quality products. Currently working towards ISTQB Certification.
 Design: Align products with business goals and user needs, aspiring to work with my dream company.
@@ -116,7 +116,7 @@ Feel free to connect with me for collaboration or to discuss potential opportuni
 
 - **LinkedIn**: [linkedin.com/in/john-adeniyi](https://www.linkedin.com/in/john-adeniyi/)
 - **Email**: adeniyijohn2002@gmail.com
-- **Instagram**: [https://www.instagram.com/only1.johnn/]https://www.instagram.com/only1.johnn/
+- **Instagram**: [instagram.com/only1.johnn**]https://www.instagram.com/only1.johnn/
 
 
 Thank you for exploring my portfolio! I look forward to leveraging my skills and experience to drive excellence in software quality and contribute to impactful projects.
