@@ -199,7 +199,7 @@ Feel free to connect with me for collaboration or to discuss potential opportuni
 
 - **LinkedIn**: [linkedin.com/in/john-adeniyi](https://www.linkedin.com/in/john-adeniyi/)
 - **Email**: adeniyijohn2002@gmail.com
-- **Instagram**: [instagram.com/only1.johnn**]https://www.instagram.com/only1.johnn/
+- **Instagram**: [instagram.com/only1.johnn](https://www.instagram.com/only1.johnn/)
 
 
 Thank you for exploring my portfolio! I look forward to leveraging my skills and experience to drive excellence in software quality and contribute to impactful projects.
