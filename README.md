@@ -46,7 +46,7 @@ I achieve this by conducting research, defining problems, designing solutions, a
 
 You can download my CV as a PDF from my Google Drive: **[View CV](https://drive.google.com/file/d/194a7IGR5PBGoE3mVtb6p0A1492s_s_ln/view?usp=sharing)**
 
-*Last Updated*: 30th August, 2024
+*Last Updated*: 9th August, 2024
 
 
 
@@ -117,7 +117,7 @@ You can download my CV as a PDF from my Google Drive: **[View CV](https://drive.
 ### 2. Bug Reports and Work in JIRA, Google Sheets
 - **[Zyggy App Jira Report (CSV Format)](./jira-reports/zyygy_app_jira_report.csv)** - A sample export of Jira issues that demonstrates my bug tracking and project management skills.
   
-**Note**: The actual Jira project link cannot be shared due to confidentiality agreements. This CSV file represents a similar structure and work process without exposing sensitive information.
+*Note*: The actual Jira project link cannot be shared due to confidentiality agreements. This CSV file represents a similar structure and work process without exposing sensitive information.
 
 - **[Flex Finance Test Report](https://docs.google.com/spreadsheets/d/1wm_DAiPd3PRUdRUnKxYF6PnsXqbZtYlAP4-8GhND6Ro/edit?usp=sharing)** - A Google Sheet documenting test cases, test results, and bug tracking for the Flex Finance application.
 
