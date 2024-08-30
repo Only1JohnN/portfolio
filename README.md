@@ -159,24 +159,24 @@ I achieve this by conducting research, defining problems, designing solutions, a
 
 
 - **API Testing** - Automated scripts demonstrating various functionalities:
-    - [API Endpoints](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/api/test_endpoints.py) - Test script for validating various API endpoints.
-    - [Request Parameters](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/api/test_request_parameters.py) - Test script for handling different request parameters.
-    - [Response Validation](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/api/test_response_validation.py) - Test script for validating API responses.
+    - **[API Endpoints](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/api/test_endpoints.py)** - Test script for validating various API endpoints.
+    - **[Request Parameters](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/api/test_request_parameters.py)** - Test script for handling different request parameters.
+    - **[Response Validation](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/api/test_response_validation.py)** - Test script for validating API responses.
 
 
 - **Performance Testing**  - Automated scripts demonstrating various functionalities:
-    - [Load Testing](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/performance/test_load_testing.py) - Test script for simulating load conditions.
-    - [Stress Testing](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/performance/test_stress_testing.py) - Test script for simulating stress conditions.
+    - **[Load Testing](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/performance/test_load_testing.py)** - Test script for simulating load conditions.
+    - **[Stress Testing](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/performance/test_stress_testing.py)** - Test script for simulating stress conditions.
 
 
 - **Security Testing** - Automated scripts demonstrating various functionalities:
-    - [Vulnerability Scanning](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/security/test_vulnerability_scanning.py) - Test script for identifying security vulnerabilities.
-    - [Authentication Testing](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/security/test_authentication_testing.py) - Test script for verifying authentication mechanisms.
+    - **[Vulnerability Scanning](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/security/test_vulnerability_scanning.py)** - Test script for identifying security vulnerabilities.
+    - **[Authentication Testing](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/security/test_authentication_testing.py)** - Test script for verifying authentication mechanisms.
 
 **
 - **Accessibility Testing** - Automated scripts demonstrating various functionalities:
-    - [Color Contrast](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/accessibility/test_color_contrast.py) - Test script for checking color contrast ratios.
-    - [Screen Reader](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/accessibility/test_screen_reader.py) - Test script for ensuring screen reader compatibility.
+    - **[Color Contrast](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/accessibility/test_color_contrast.py)** - Test script for checking color contrast ratios.
+    - **[Screen Reader](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/accessibility/test_screen_reader.py)** - Test script for ensuring screen reader compatibility.
   
 ### 4. Mind Maps and Diagrams
 - [Functional Decomposition Mind Map - Incomplete](#) - Visual representation of application workflows.
