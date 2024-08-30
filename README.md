@@ -90,7 +90,9 @@ I achieve this by conducting research, defining problems, designing solutions, a
 - [Test Suites](#) - Comprehensive suites for regression testing.
   
 ### 2. Bug Reports and Work in JIRA
-- [Sample Bug Reports](#) - Examples of bugs identified during testing sessions.
+- [Sample Jira Report (CSV Format)](./jira-reports/sample_jira_report.csv) - A sample export of Jira issues that demonstrates my bug tracking and project management skills.
+  
+**Note**: The actual Jira project link cannot be shared due to confidentiality agreements. This CSV file represents a similar structure and work process without exposing sensitive information.
   
 ### 3. Automation Scripts
 - [Web Application Testing with Selenium](#) - Automated scripts showcasing login, navigation, and form validation.
