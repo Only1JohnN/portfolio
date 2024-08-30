@@ -14,14 +14,14 @@ I achieve this by conducting research, defining problems, designing solutions, a
 
 **Key Skills & Expertise:**
 
-QA Engineer: UI, black-box, white-box, integration, system, unit, and user acceptance testing. Proficient with Jira, Git, GitHub, and basic Selenium and REST API knowledge. Knowledge of SDLC, STLC, and bug life cycle.
-Product Designer: Skilled in problem-solving, prototyping, wireframing, user research, design thinking, usability testing, and visual design.
+- QA Engineer: UI, black-box, white-box, integration, system, unit, and user acceptance testing. Proficient with Jira, Git, GitHub, and basic Selenium and REST API knowledge. Knowledge of SDLC, STLC, and bug life cycle.
+- Product Designer: Skilled in problem-solving, prototyping, wireframing, user research, design thinking, usability testing, and visual design.
 
 
 **Goals:**
 
-QA: Prevent defects in development and ensure high-quality products. Currently working towards ISTQB Certification.
-Design: Align products with business goals and user needs, aspiring to work with my dream company.
+- QA Engineer: Prevent defects in development and ensure high-quality products. Currently working towards ISTQB Certification.
+- Product Design: Align products with business goals and user needs, aspiring to work with my dream company.
 
 
 
