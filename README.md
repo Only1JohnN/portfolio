@@ -7,6 +7,7 @@ Welcome to my portfolio! I am a passionate and detail-oriented Quality Assurance
 
 ## Table of Contents
 - [About Me](#about-me)
+- [CV](#cv)
 - [Key Skills & Expertise](#key-skills--expertise)
 - [Courses & Certifications](#courses--certifications)
 - [Portfolio Sections](#portfolio-sections)
