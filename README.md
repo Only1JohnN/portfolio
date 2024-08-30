@@ -11,7 +11,7 @@ Welcome to my portfolio! I am a passionate and detail-oriented Quality Assurance
 - [Courses & Certifications](#courses--certifications)
 - [Portfolio Sections](#portfolio-sections)
   - [1. Test Cases and Work in TestRail](#1-test-cases-and-work-in-testrail)
-  - [2. Bug Reports and Work in JIRA, Google Sheets](#2-bug-reports-and-work-in-jira,-google-sheets,-...)
+  - [2. Bug Reports and Work in JIRA, Google Sheets](#2-bug-reports-and-work-in-jira-google-sheets)
   - [3. Automation Scripts](#3-automation-scripts)
   - [4. Mind Maps and Diagrams](#4-mind-maps-and-diagrams)
   - [5. Books I Have Read](#5-books-i-have-read)
@@ -104,7 +104,7 @@ I achieve this by conducting research, defining problems, designing solutions, a
 - [Test Cases for Checkout Process - Incomplete](#) - Detailed test cases covering end-to-end scenarios.
 - [Test Suites - Incomplete](#) - Comprehensive suites for regression testing.
   
-### 2. Bug Reports and Work in JIRA, Google Sheet, ...
+### 2. Bug Reports and Work in JIRA, Google Sheets
 - **[Zyggy App Jira Report (CSV Format)](./jira-reports/zyygy_app_jira_report.csv)** - A sample export of Jira issues that demonstrates my bug tracking and project management skills.
   
 **Note**: The actual Jira project link cannot be shared due to confidentiality agreements. This CSV file represents a similar structure and work process without exposing sensitive information.
