@@ -141,8 +141,8 @@ I achieve this by conducting research, defining problems, designing solutions, a
     - **[Form Fields](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_form_fields.py)** - Test script for validating form fields on mobile.
     - **[Popups](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_popups.py)** - Test script for handling various types of popups on mobile.
     - **[Sliders](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_sliders.py)** - Test script for interacting with sliders on mobile.
-    - **[Calendars](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_calendars.py)** - Test script for working wi**th calendar elements on mobile.
-    - [Modals](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_modals.py)** - Test script for managing modals on mobile.
+    - **[Calendars](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_calendars.py)** - Test script for working with calendar elements on mobile.
+    - **[Modals](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_modals.py)** - Test script for managing modals on mobile.
     - **[Tables](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_tables.py)** - Test script for interacting with tables on mobile.
     - **[Window Operations](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_window_operations.py)** - Test script for handling multiple windows on mobile.
     - **[Hover](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_hover.py)** - Test script for hover interactions on mobile.
