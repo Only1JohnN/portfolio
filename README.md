@@ -114,7 +114,26 @@ I achieve this by conducting research, defining problems, designing solutions, a
 - **Additional Reports:** Due to confidentiality and the volume of work, other reports cannot be shared here, but they reflect similar high standards of testing and QA processes.
   
 ### 3. Automation Scripts
-- [Web Application Testing with Selenium - Incomplete](#) - Automated scripts showcasing login, navigation, and form validation.
+- **Web Application Testing with Selenium - Incomplete** - Automated scripts demonstrating various functionalities:
+  - JavaScript Delays
+  - Form Fields
+  - Popups
+  - Sliders
+  - Calendars
+  - Modals
+  - Tables
+  - Window Operations
+  - Hover
+  - Ads
+  - Gestures
+  - File Downloads
+  - Click Events
+  - Spinners
+  - File Uploads
+  - Iframes
+  - Broken Images
+  - Broken Links
+  - Accordions
   
 ### 4. Mind Maps and Diagrams
 - [Functional Decomposition Mind Map - Incomplete](#) - Visual representation of application workflows.
