@@ -99,12 +99,12 @@ I achieve this by conducting research, defining problems, designing solutions, a
 - [Functional Decomposition Mind Map](#) - Visual representation of application workflows.
   
 ### 5. Books I Have Read
-- "Testing dot com" by R. Savin - A beginner’s guide to software testing.
-- "A Practitioner's Guide to Software Test Design" by Lee Copeland - Insight into test design techniques.
-- "Testing Computer Software" by Cem Kaner, James Bach, and Bret Pettichord - A comprehensive guide to software testing fundamentals and practices.
-- "Lessons Learned in Software Testing" by Cem Kaner, James Bach, and Bret Pettichord - Practical insights and techniques for improving software testing processes.
-- "The Art of Software Testing" by Glenford J. Myers - A classic book covering various aspects of software testing, including strategies and methodologies.
-- "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation" by Jez Humble and David Farley - Focuses on practices for improving software delivery and testing through automation.
+- *"Testing dot com" by R. Savin* - A beginner’s guide to software testing.
+- *"A Practitioner's Guide to Software Test Design" by Lee Copeland* - Insight into test design techniques.
+- *"Testing Computer Software" by Cem Kaner, James Bach, and Bret Pettichord* - A comprehensive guide to software testing fundamentals and practices.
+- *"Lessons Learned in Software Testing" by Cem Kaner, James Bach, and Bret Pettichord* - Practical insights and techniques for improving software testing processes.
+- *"The Art of Software Testing" by Glenford J. Myers* - A classic book covering various aspects of software testing, including strategies and methodologies.
+- *"Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation" by Jez Humble and David Farley* - Focuses on practices for improving software delivery and testing through automation.
 
 
 
