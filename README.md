@@ -86,19 +86,23 @@ I achieve this by conducting research, defining problems, designing solutions, a
 ## Portfolio Sections
 
 ### 1. Test Cases and Work in TestRail
-- [Test Cases for Checkout Process](#) - Detailed test cases covering end-to-end scenarios.
-- [Test Suites](#) - Comprehensive suites for regression testing.
+- [Test Cases for Checkout Process - Incomplete](#) - Detailed test cases covering end-to-end scenarios.
+- [Test Suites - Incomplete](#) - Comprehensive suites for regression testing.
   
-### 2. Bug Reports and Work in JIRA
-- [Sample Jira Report (CSV Format)](./jira-reports/zyygy_app_jira_report.csv) - A sample export of Jira issues that demonstrates my bug tracking and project management skills.
+### 2. Bug Reports and Work in JIRA, Google Sheet
+- **[Zyggy App Jira Report (CSV Format)](./jira-reports/zyygy_app_jira_report.csv)** - A sample export of Jira issues that demonstrates my bug tracking and project management skills.
   
 **Note**: The actual Jira project link cannot be shared due to confidentiality agreements. This CSV file represents a similar structure and work process without exposing sensitive information.
+
+- **[Flex Finance Test Report](https://docs.google.com/spreadsheets/d/1wm_DAiPd3PRUdRUnKxYF6PnsXqbZtYlAP4-8GhND6Ro/edit?usp=sharing)** - A Google Sheet documenting test cases, test results, and bug tracking for the Flex Finance application.
+
+- **Additional Reports:** Due to confidentiality and the volume of work, other reports cannot be shared here, but they reflect similar high standards of testing and QA processes.
   
 ### 3. Automation Scripts
-- [Web Application Testing with Selenium](#) - Automated scripts showcasing login, navigation, and form validation.
+- [Web Application Testing with Selenium - Incomplete](#) - Automated scripts showcasing login, navigation, and form validation.
   
 ### 4. Mind Maps and Diagrams
-- [Functional Decomposition Mind Map](#) - Visual representation of application workflows.
+- [Functional Decomposition Mind Map - Incomplete](#) - Visual representation of application workflows.
   
 ### 5. Books I Have Read
 - *"Testing dot com" by R. Savin* - A beginner’s guide to software testing.
