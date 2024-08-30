@@ -43,8 +43,9 @@ I achieve this by conducting research, defining problems, designing solutions, a
 
 
 ## CV
+
 You can download my CV as a PDF from my Google Drive: **[View CV](https://drive.google.com/file/d/194a7IGR5PBGoE3mVtb6p0A1492s_s_ln/view?usp=sharing)**
-**Last Updated**: 30th August, 2024
+.**Last Updated**: 30th August, 2024.
 
 
 
