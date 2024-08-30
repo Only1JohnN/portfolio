@@ -115,7 +115,7 @@ I achieve this by conducting research, defining problems, designing solutions, a
   
 ### 3. Automation Scripts
 - **Web Application Testing with Selenium - Incomplete** - Automated scripts demonstrating various functionalities:
-  - **[JavaScript Delays](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/test_javascript_delays.py)** - Test script demonstrating how to handle JavaScript delays.
+    - **[JavaScript Delays](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/test_javascript_delays.py)** - Test script demonstrating how to handle JavaScript delays.
     - **[Form Fields](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/test_form_fields.py)** - Test script for validating form fields.
     - **[Popups](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/test_popups.py)** - Test script for handling various types of popups.
     - **[Sliders](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/test_sliders.py)** - Test script for interacting with sliders.
