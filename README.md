@@ -114,7 +114,7 @@ I achieve this by conducting research, defining problems, designing solutions, a
 - **Additional Reports:** Due to confidentiality and the volume of work, other reports cannot be shared here, but they reflect similar high standards of testing and QA processes.
   
 ### 3. Automation Scripts
-- **Web Application Testing with Selenium - Incomplete** - Automated scripts demonstrating various functionalities:
+- **Web Application Testing with Selenium** - Automated scripts demonstrating various functionalities:
     - **[JavaScript Delays](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/test_javascript_delays.py)** - Test script demonstrating how to handle JavaScript delays.
     - **[Form Fields](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/test_form_fields.py)** - Test script for validating form fields.
     - **[Popups](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/test_popups.py)** - Test script for handling various types of popups.
@@ -134,6 +134,49 @@ I achieve this by conducting research, defining problems, designing solutions, a
     - **[Broken Images](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/test_broken_images.py)** - Test script for detecting broken images.
     - **[Broken Links](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/test_broken_links.py)** - Test script for checking broken links.
     - **[Accordions](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/test_accordions.py)** - Test script for interacting with accordion elements.
+
+
+- **Mobile Application Testing with Appium** - Automated scripts demonstrating various functionalities:
+    - [JavaScript Delays](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_javascript_delays.py) - Test script demonstrating how to handle JavaScript delays on mobile.
+    - [Form Fields](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_form_fields.py) - Test script for validating form fields on mobile.
+    - [Popups](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_popups.py) - Test script for handling various types of popups on mobile.
+    - [Sliders](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_sliders.py) - Test script for interacting with sliders on mobile.
+    - [Calendars](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_calendars.py) - Test script for working with calendar elements on mobile.
+    - [Modals](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_modals.py) - Test script for managing modals on mobile.
+    - [Tables](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_tables.py) - Test script for interacting with tables on mobile.
+    - [Window Operations](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_window_operations.py) - Test script for handling multiple windows on mobile.
+    - [Hover](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_hover.py) - Test script for hover interactions on mobile.
+    - [Ads](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_ads.py) - Test script for managing ads on mobile.
+    - [Gestures](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_gestures.py) - Test script for gesture-based actions on mobile.
+    - [File Downloads](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_file_downloads.py) - Test script for file download functionality on mobile.
+    - [Click Events](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_click_events.py) - Test script for click interactions on mobile.
+    - [Spinners](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_spinners.py) - Test script for handling spinners on mobile.
+    - [File Uploads](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_file_uploads.py) - Test script for file upload functionality on mobile.
+    - [Iframes](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_iframes.py) - Test script for working with iframes on mobile.
+    - [Broken Images](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_broken_images.py) - Test script for detecting broken images on mobile.
+    - [Broken Links](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_broken_links.py) - Test script for checking broken links on mobile.
+    - [Accordions](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/mobile/test_accordions.py) - Test script for interacting with accordion elements on mobile.
+
+
+- **API Testing** - Automated scripts demonstrating various functionalities:
+    - [API Endpoints](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/api/test_endpoints.py) - Test script for validating various API endpoints.
+    - [Request Parameters](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/api/test_request_parameters.py) - Test script for handling different request parameters.
+    - [Response Validation](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/api/test_response_validation.py) - Test script for validating API responses.
+
+
+- **Performance Testing**  - Automated scripts demonstrating various functionalities:
+    - [Load Testing](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/performance/test_load_testing.py) - Test script for simulating load conditions.
+    - [Stress Testing](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/performance/test_stress_testing.py) - Test script for simulating stress conditions.
+
+
+- **Security Testing** - Automated scripts demonstrating various functionalities:
+    - [Vulnerability Scanning](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/security/test_vulnerability_scanning.py) - Test script for identifying security vulnerabilities.
+    - [Authentication Testing](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/security/test_authentication_testing.py) - Test script for verifying authentication mechanisms.
+
+
+- **Accessibility Testing** - Automated scripts demonstrating various functionalities:
+    - [Color Contrast](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/accessibility/test_color_contrast.py) - Test script for checking color contrast ratios.
+    - [Screen Reader](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/accessibility/test_screen_reader.py) - Test script for ensuring screen reader compatibility.
   
 ### 4. Mind Maps and Diagrams
 - [Functional Decomposition Mind Map - Incomplete](#) - Visual representation of application workflows.
