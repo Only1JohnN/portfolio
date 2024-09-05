@@ -175,8 +175,8 @@ You can download my CV as a PDF from my Google Drive: **[View CV](https://drive.
 
 
 - **Performance Testing**  - Automated scripts demonstrating various functionalities:
-    - **[Load Testing](https://github.com/Only1JohnN/Load-Stress-Test-Automation/blob/main/python/load_test.py)** - Test script for simulating load conditions.
-    - **[Stress Testing](https://github.com/Only1JohnN/Load-Stress-Test-Automation/blob/main/python/stress_test.py)** - Test script for simulating stress conditions.
+    - **[Load Testing](https://github.com/Only1JohnN/load-stress_test-automation/blob/main/python/load_test.py)** - Test script for simulating load conditions.
+    - **[Stress Testing](https://github.com/Only1JohnN/load-stress_test-automation/blob/main/python/stress_test.py)** - Test script for simulating stress conditions.
 
 
 - **Security Testing** - Automated scripts demonstrating various functionalities:
