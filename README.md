@@ -83,7 +83,7 @@ You can download my CV as a PDF from my Google Drive: **[View CV](https://drive.
     - CI/CD Integration: Jenkins, GitHub Actions
     - Version Control: Git, GitHub
     - Test Management: TestRail, Zephyr
-    - Bug Tracking: JIRA, Asana, Trello
+    - Bug Tracking: JIRA, Asana, Trello, Notion
 
 - **Additional Skills**:
     - Knowledge of SDLC, STLC, and Bug Life Cycle
@@ -99,7 +99,7 @@ You can download my CV as a PDF from my Google Drive: **[View CV](https://drive.
 ## Courses & Certifications
 
 - **[Udemy Courses](#)**: Completed various courses focusing on QA and automation testing.
-- **[YouTube Courses](#)**: Self-paced learning through in-depth tutorials on software testing and automation tools.
+- **[YouTube Courses](#)**: Self-paced learning through in-depth software testing and automation tools tutorials.
 - **[Coursera Courses](#)**: Courses in software testing, QA methodologies, and automation frameworks.
 - **[ISTQB (in-view)](#)**: Currently preparing for the International Software Testing Qualifications Board certification.
 - **[Online Seminars](#)**: Attended various seminars on quality assurance, software testing, and industry best practices.
@@ -110,9 +110,9 @@ You can download my CV as a PDF from my Google Drive: **[View CV](https://drive.
 
 ## Portfolio Sections
 
-### 1. Test Cases and Work in TestRail
-- [Test Cases for Checkout Process - Incomplete](#) - Detailed test cases covering end-to-end scenarios.
-- [Test Suites - Incomplete](#) - Comprehensive suites for regression testing.
+### 1. Test Cases and Work in TestRail - INCOMPLETE
+- [Test Cases for Checkout Process](#) - Detailed test cases covering end-to-end scenarios.
+- [Test Suites](#) - Comprehensive suites for regression testing.
   
 ### 2. Bug Reports and Work in JIRA, Google Sheets
 - **[Zyggy App Jira Report (CSV Format)](./jira-reports/zyygy_app_jira_report.csv)** - A sample export of Jira issues that demonstrates my bug tracking and project management skills.
@@ -188,8 +188,8 @@ You can download my CV as a PDF from my Google Drive: **[View CV](https://drive.
     - **[Color Contrast](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/accessibility/test_color_contrast.py)** - Test script for checking color contrast ratios.
     - **[Screen Reader](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/accessibility/test_screen_reader.py)** - Test script for ensuring screen reader compatibility.
   
-### 4. Mind Maps and Diagrams
-- [Functional Decomposition Mind Map - Incomplete](#) - Visual representation of application workflows.
+### 4. Mind Maps and Diagrams - INCOMPLETE
+- [Functional Decomposition Mind Map](#) - Visual representation of application workflows.
   
 ### 5. Books I Have Read
 - *"Testing dot com" by R. Savin* - A beginner’s guide to software testing.
