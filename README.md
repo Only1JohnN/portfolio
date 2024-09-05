@@ -169,9 +169,9 @@ You can download my CV as a PDF from my Google Drive: **[View CV](https://drive.
 
 
 - **API Testing** - Automated scripts demonstrating various functionalities:
-    - **[API Endpoints](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/api/test_endpoints.py)** - Test script for validating various API endpoints.
-    - **[Request Parameters](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/api/test_request_parameters.py)** - Test script for handling different request parameters.
-    - **[Response Validation](https://github.com/Only1JohnN/learn-and-practice-automation/blob/main/tests/api/test_response_validation.py)** - Test script for validating API responses.
+    - **[API Endpoints](https://github.com/Only1JohnN/API-automation-scripts/blob/main/tests/api/test_endpoints.py)** - Test script for validating various API endpoints.
+    - **[Request Parameters](https://github.com/Only1JohnN/API-automation-scripts/blob/main/tests/api/test_request_parameters.py)** - Test script for handling different request parameters.
+    - **[Response Validation](https://github.com/Only1JohnN/API-automation-scripts/blob/main/tests/api/test_response_validation.py)** - Test script for validating API responses.
 
 
 - **Performance Testing**  - Automated scripts demonstrating various functionalities:
