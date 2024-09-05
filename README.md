@@ -185,8 +185,8 @@ You can download my CV as a PDF from my Google Drive: **[View CV](https://drive.
 
 
 - **Accessibility Testing** - Automated scripts demonstrating various functionalities:
-    - **[Color Contrast](https://github.com/Only1JohnN/WCAG-Compliance-Testing/blob/main/tests/test_color_contrast.py)** - Test script for checking color contrast ratios.
-    - **[Screen Reader](https://github.com/Only1JohnN/WCAG-Compliance-Testing/blob/main/tests/test_screen_reader.py)** - Test script for ensuring screen reader compatibility.
+    - **[Color Contrast](https://github.com/Only1JohnN/WCAG-compliance-testing/blob/main/tests/test_color_contrast.py)** - Test script for checking color contrast ratios.
+    - **[Screen Reader](https://github.com/Only1JohnN/WCAG-compliance-testing/blob/main/tests/test_screen_reader.py)** - Test script for ensuring screen reader compatibility.
   
 ### 4. Mind Maps and Diagrams - INCOMPLETE
 - [Functional Decomposition Mind Map](#) - Visual representation of application workflows.
